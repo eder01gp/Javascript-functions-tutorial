@@ -10,8 +10,3 @@ var total3 = sum(2,3);
 console.log(total);
 console.log(total2);
 console.log(total3);
-
-superduper=(b,a) => a+b;
-
-console.log(superduper(3445324,53454423));
-
